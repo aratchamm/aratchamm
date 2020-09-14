@@ -1,3 +1,2 @@
 ![gif](https://github.com/aratchamm/aratchamm/blob/master/hello-there.gif)
-<a href="https://github.com/aratchamm/aratchamm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&hide=java,html&title_color=000000&text_color=3b5280&icon_color=2bbc8a&bg_color=ffffff" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
