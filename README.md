@@ -1,4 +1,4 @@
-![gif](https://github.com/aratchamm/aratchamm/blob/master/hello-there.gif)
+![gif](https://github.com/aratchamm/aratchamm/blob/master/welcome.gif)
 
 ```javascript
 const aratcha = {
