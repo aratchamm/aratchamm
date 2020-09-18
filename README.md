@@ -7,4 +7,4 @@ const aratcha = {
   skill: ["HTML", "CSS","Graphic design","Video editing"]
 };
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![gif](https://github.com/aratchamm/aratchamm/blob/master/welcome.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![gif](https://github.com/aratchamm/aratchamm/blob/master/2.jpeg)
