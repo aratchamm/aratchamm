@@ -8,5 +8,4 @@ const aratcha = {
   school: string = 'Bodindecha (Sing Singhaseni) 2',
   code: ["HTML", "CSS",]
 };
-};
 ```
