@@ -6,6 +6,6 @@ const aratcha = {
   nickname: 'mookmew',
   age: number = 18,
   school: string = 'Bodindecha (Sing Singhaseni) 2',
-  code: ["HTML", "CSS",]
+  code: ["HTML", "CSS"]
 };
 ```
