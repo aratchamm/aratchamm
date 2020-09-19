@@ -14,5 +14,6 @@ const aratcha = {
 };
 ```
 ---
-
+<p align="center">
 [![Gmail Badge](https://img.shields.io/badge/-aratcha.mm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&color=313131&link=mailto:aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
+</p>
