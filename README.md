@@ -1,4 +1,4 @@
-![JPG](https://github.com/aratchamm/aratchamm/blob/master/3.jpg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![GIF](https://github.com/aratchamm/aratchamm/blob/master/welcome2.jpg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ```javascript
 const aratcha = {
