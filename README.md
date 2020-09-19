@@ -10,7 +10,7 @@ const aratcha = {
   age: number = 18,
   school: string = 'Bodindecha (Sing Singhaseni) 2',
   skill: ["HTML", "CSS","Graphic Design","Video Editing"],
-  dream job: string = 'Full-Stack Developer'
+  dreamjob: string = 'Full-Stack Developer'
 };
 ```
 ---
