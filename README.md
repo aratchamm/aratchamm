@@ -4,10 +4,11 @@
 ```javascript
 const aratcha = {
   name: string = 'Aratcha Pinprayoon',
-  nickname: 'mookmew',
+  nickname: 'Mookmew',
   age: number = 18,
   school: string = 'Bodindecha (Sing Singhaseni) 2',
-  skill: ["HTML", "CSS","Graphic design","Video editing"]
+  skill: ["HTML", "CSS","Graphic Design","Video Editing"]
+  dream job: string = 'Full-Stack Developer'
 };
 ```
 
