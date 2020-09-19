@@ -1,8 +1,8 @@
 
 <br></br>
 ![GIF](https://github.com/aratchamm/aratchamm/blob/master/gif.gif) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Gmail Badge](https://img.shields.io/badge/-aratcha.mm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&color=313131&link=mailto:aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
 <br></br>
+[![Gmail Badge](https://img.shields.io/badge/-aratcha.mm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&color=313131&link=mailto:aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
 ```javascript
 const aratcha = {
   name: string = 'Aratcha Pinprayoon',
