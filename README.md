@@ -11,4 +11,4 @@ const aratcha = {
   dream job: string = 'Full-Stack Developer'
 };
 ```
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
