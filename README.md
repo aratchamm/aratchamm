@@ -1,7 +1,7 @@
 
 <br></br>
-<img align="left" src="https://github.com/aratchamm/aratchamm/blob/master/gif.gif">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github.com/aratchamm/aratchamm/blob/master/gif.gif"> [![Gmail Badge](https://img.shields.io/badge/-aratcha.mm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&color=313131&link=mailto:aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
+
 <br></br>
 
 ```javascript
@@ -15,5 +15,6 @@ const aratcha = {
 };
 ```
 ---
-[![Gmail Badge](https://img.shields.io/badge/-aratcha.mm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&color=313131&link=mailto:aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
