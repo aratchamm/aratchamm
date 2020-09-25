@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/aratchamm/aratchamm/blob/master/github2.gif"> 
+<img align="left" src="https://github.com/aratchamm/aratchamm/blob/master/gh.gif"> 
 
 ```javascript
 const aratcha = {
