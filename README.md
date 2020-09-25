@@ -1,7 +1,6 @@
 
 <br></br>
 <img align="left" src="https://github.com/aratchamm/aratchamm/blob/master/github.gif"> 
-<a href="#" class="badge badge-dark">Dark</a>
 
 ```javascript
 const aratcha = {
