@@ -1,8 +1,7 @@
 
 <br></br>
 <img align="left" src="https://github.com/aratchamm/aratchamm/blob/master/github.gif"> 
-<br></br>
-[![Gmail Badge](https://img.shields.io/badge/-aratcha.mm@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&color=313131&link=mailto:aratcha.mm@gmail.com)](mailto:defcon.aratcha.mm@gmail.com)
+<a href="#" class="badge badge-dark">Dark</a>
 
 ```javascript
 const aratcha = {
