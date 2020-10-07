@@ -14,6 +14,7 @@ const aratcha = {
   school: string = 'Bodindecha (Sing Singhaseni) 2',
   skill: ["HTML", "CSS","Graphic Design","Video Editing"],
   dreamjob: string = 'Full-Stack Developer'
+  motto: string = 'Don't be afraid to fail, Be afraid not to try'
 };
 ```
 ---
