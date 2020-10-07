@@ -13,5 +13,5 @@ const aratcha = {
 ```
 ---
 
-https://img.shields.io/website?down_color=green&style=for-the-badge&up_color=black&up_message=aratcha.github.io&url=https%3A%2F%2Faratchamm.github.io%2F
+[Badge] https://img.shields.io/website?down_color=green&style=for-the-badge&up_color=black&up_message=aratcha.github.io&url=https%3A%2F%2Faratchamm.github.io%2F
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
