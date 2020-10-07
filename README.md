@@ -19,5 +19,8 @@ const aratcha = {
 ```
 ---
 
+**Now Playing** on Spotify
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratchamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://status.nmoo.dev/now-playing?open">
+    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
+</a>
