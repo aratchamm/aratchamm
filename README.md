@@ -1,8 +1,8 @@
 
 <img align="center" src="https://github.com/aratchamm/aratchamm/blob/master/im.gif"></img>
 
-<a href="https://aratchamm.github.io/"><img align="center" src="https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=safari&logoColor=white"></img></a>
-<a href="mailto:aratcha.mm@gmail.com"><img align="center" src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a align="center" href="https://aratchamm.github.io/"><img  src="https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=safari&logoColor=white"></img></a>
+<a align="center" href="mailto:aratcha.mm@gmail.com"><img src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 ```javascript
 const aratcha = {
