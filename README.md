@@ -17,4 +17,4 @@ const aratcha = {
   motto: string = 'Don't be afraid to fail be afraid not to try'
 };
 ```
----
+
