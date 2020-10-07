@@ -18,5 +18,3 @@ const aratcha = {
 };
 ```
 ---
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7xi5lyjg7q4elxqittprf07pa&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
