@@ -1,7 +1,7 @@
 
 <img align="center" src="https://github.com/aratchamm/aratchamm/blob/master/im.gif"></img>
 
-<a href="https://aratchamm.github.io/"><img src="https://img.shields.io/badge/-safari-000000?style=for-the-badge&logo=safari&logoColor=white"></img></a>
+<a href="https://aratchamm.github.io/"><img src="https://img.shields.io/badge/-safari-000000?style=for-the-badge&logo=website&logoColor=white"></img></a>
 
 ```javascript
 const aratcha = {
