@@ -19,8 +19,4 @@ const aratcha = {
 ```
 ---
 
-**Now Playing** on Spotify
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7xi5lyjg7q4elxqittprf07pa&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
