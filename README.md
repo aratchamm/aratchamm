@@ -1,7 +1,7 @@
 
 <img align="center" src="https://github.com/aratchamm/aratchamm/blob/master/im.gif"></img>
 
-<a target="_blank" href="https://aratchamm.github.io/"><img src="https://img.shields.io/badge/-Microsoft Edge-0078D7?style=for-the-badge&logo=Microsoft Edge&logoColor=white"></img></a>
+<a href="https://aratchamm.github.io/"><img src="https://img.shields.io/badge/-Microsoft Edge-0078D7?style=for-the-badge&logo=Microsoft Edge&logoColor=white"></img></a>
 
 ```javascript
 const aratcha = {
