@@ -3,6 +3,7 @@
 
 ![Gmail Badge](https://img.shields.io/website?down_color=green&style=for-the-badge&up_color=black&up_message=aratcha.github.io&url=https://aratchamm.github.io)
 [![Gmail Badge](https://img.shields.io/badge/-aratchamm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aratchamm@gmail.com)](mailto:aratchamm@gmail.com)
+<a target="_blank" href="https://aratchamm.github.io"><img src="https://img.shields.io/twitter/url?color=%23FFFFFF&label=WEBSITE&style=for-the-badge&url=https%3A%2F%2Faratchamm.github.io></img></a>
 
 ```javascript
 const aratcha = {
