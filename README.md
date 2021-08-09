@@ -11,7 +11,7 @@ const aratcha = {
   name: string = 'Aratcha Pinprayoon',
   nickname: 'Mookmew',
   age: number = 18,
-  school: string = 'Bodindecha (Sing Singhaseni) 2',
+  school: string = 'King Mongkut's Institute of Technology Ladkrabang',
   skill: ["HTML", "CSS","Graphic Design","Video Editing"],
   dreamjob: string = 'Full-Stack Developer',
   motto: string = 'Don't be afraid to fail be afraid not to try'
