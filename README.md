@@ -12,7 +12,7 @@ const aratcha = {
   nickname: 'Mookmew',
   age: number = 18,
   university: string = 'King Mongkut's Institute of Technology Ladkrabang',
-  skill: ["HTML", "CSS","Graphic Design","Video Editing"],
+  skill: ["C languages", "HTML", "CSS","Graphic Design","Video Editing"],
   dreamjob: string = 'Full-Stack Developer',
   motto: string = 'Don't be afraid to fail be afraid not to try'
 };
