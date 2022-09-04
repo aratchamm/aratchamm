@@ -4,11 +4,3 @@
 <a href="https://aratchamm.github.io/"><img  src="https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=safari&logoColor=white"></img></a>
 <a href="mailto:aratcha.mm@gmail.com"><img src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
-
-
-```javascript
-const Aratcha = {
-  name: string = 'Aratcha Pinprayoon',
-  university: string = 'King Mongkut's Institute of Technology Ladkrabang',
-};
-```
