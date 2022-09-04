@@ -7,13 +7,8 @@
 
 
 ```javascript
-const aratcha = {
+const Aratcha = {
   name: string = 'Aratcha Pinprayoon',
-  nickname: 'Mookmew',
-  age: number = 19,
   university: string = 'King Mongkut's Institute of Technology Ladkrabang',
-  skill: ["C languages", "HTML", "CSS","Graphic Design","Video Editing"],
-  dreamjob: string = 'Full-Stack Developer',
-  motto: string = 'Don't be afraid to fail be afraid not to try'
 };
 ```
