@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/aratchamm/aratchamm/blob/master/hello.gif"></img>
+<img align="center" src="https://github.com/aratchamm/aratchamm/blob/master/name.gif"></img>
 
 <p align="center"> 
 <a href="https://aratchamm.github.io/"><img  src="https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=safari&logoColor=white"></img></a>
